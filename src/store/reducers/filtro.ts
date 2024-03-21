@@ -1,5 +1,4 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit'
-import { act } from '@testing-library/react'
 import * as enums from '../../utils/enums/Tarefa'
 
 type FiltroState = {
